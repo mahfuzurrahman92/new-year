@@ -101,3 +101,29 @@ section{
 .pa-con-des h5{
     padding-left: 20px;
 }
+/* about section */
+#about{
+    
+    height: 200px;
+    width: 450px;
+    background-color: #fd9f9f ;
+}
+.about-con{
+    padding: 50px ;
+    
+    text-align: center;
+    
+}
+.about-con span{
+    color: red;
+}
+.btn-a{
+    text-align: center;
+    margin-top: 20px;
+}
+.about-con button{
+    border: none;
+    color: white;
+    border-radius: 2px;
+    background-color: #FF0000;
+}
