@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* section style */
+
+/* banner */
+.banner{
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 300px;
+    height: 600px;
+    background-image: url(../images/Banner\ Image.png);
+}
+/* banner title */
+.ban-title{
+    margin: 10px auto;
+    max-height: fit-content;
+    max-width: 200px;
+    /* padding: 10px auto; */
+    text-align: center;
+    /* margin: 10px auto; */
+    color: white;
+}
+.ban-title h5{
+    padding-top: 30px;
+    text-align: center;
+}
