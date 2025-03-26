@@ -194,3 +194,52 @@ section{
 .offer-foot-img{
     margin-top: 50px;
 }
+/* figure */
+/* figure{
+    background-color: white;
+    margin-top: 100px ;
+    margin-left: 100px;
+    margin-right: 100px;
+
+} */
+figcaption{
+    color: gray;
+    /* text-align: center; */
+    font-size: 10px;
+    margin-left: 150px;
+}
+/* body */
+/* body{
+    background-color: black;
+} */
+/* function section */
+#function{
+    border: 2px solid;
+    width: 450px;
+    height: fit-content;
+}
+/* function contain */
+
+/* description */
+.fun-con-des{
+    text-align: center;
+}
+.fun-con-des h1{
+    font-size: 30px;
+}
+.tit{
+    color: #FF0000;
+}
+.fun-con-des h6{
+    font-size: 10px;
+}
+.dol{
+    color: gray;
+    font-size: 10px;
+}
+/* fun image */
+.fun-img{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
