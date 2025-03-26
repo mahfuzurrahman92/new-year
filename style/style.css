@@ -214,9 +214,9 @@ figcaption{
 } */
 /* function section */
 #function{
-    border: 2px solid;
+    
     width: 450px;
-    height: fit-content;
+    height: 300;
 }
 /* function contain */
 
@@ -224,22 +224,60 @@ figcaption{
 .fun-con-des{
     text-align: center;
 }
+
 .fun-con-des h1{
     font-size: 30px;
 }
 .tit{
+    margin-top: 5px;
     color: #FF0000;
 }
 .fun-con-des h6{
     font-size: 10px;
 }
 .dol{
+    margin-top: 5px;
     color: gray;
     font-size: 10px;
 }
 /* fun image */
 .fun-img{
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 450px;
+    background-image: url(../images/Rectangle\ 2.png);
     margin-top: 40px;
     display: flex;
     justify-content: space-between;
+}
+/* gift section */
+#gift{
+    width: 450px;
+    /* border: 2px solid; */
+}
+/* gift description */
+.gift-des{
+    /* max-width: 230px; */
+    text-align: left;
+}
+.gift-des h6{
+    margin-bottom: 3px;
+    color: #FF0000;
+}
+.gif-de{
+    
+    color: gray;
+    font-size: 10px;
+
+}
+/* gift image */
+.gift-img{
+    margin-top: 10px;
+
+}
+.gift-img img{
+    
+    width: 15opx;
+    height: 150px;
+
 }
