@@ -106,7 +106,8 @@ section{
     
     height: 200px;
     width: 450px;
-    background-color: #fd9f9f ;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+     /* background: linear-gradient(180.00deg,red); */
 }
 .about-con{
     padding: 50px ;
@@ -126,4 +127,22 @@ section{
     color: white;
     border-radius: 2px;
     background-color: #FF0000;
+}
+/* Offer Section */
+#offer{
+    height: 200px;
+    width: 450px;
+}
+/* new best offer */
+.new-best h5{
+    color: red;
+}
+.new-best h2{
+    font-weight: 600;
+}
+.new-best p{
+    max-width: 100px;
+}
+.offer-con{
+    display: flex;
 }
