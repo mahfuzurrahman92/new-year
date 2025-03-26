@@ -195,13 +195,15 @@ section{
     margin-top: 50px;
 }
 /* figure */
-/* figure{
-    background-color: white;
-    margin-top: 100px ;
+figure{
     margin-left: 100px;
     margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: white;
+    /* border: 2px solid; */
 
-} */
+}
 figcaption{
     color: gray;
     /* text-align: center; */
@@ -280,4 +282,50 @@ figcaption{
     width: 15opx;
     height: 150px;
 
+}
+/* subscribe */
+#subscribe{
+    background: rgba(255, 0, 0, 0.05);
+    width: 450px;
+    text-align: center;
+}
+.su{
+    color: gray;
+    font-size: 10px;
+}
+.sub-des{
+    
+    width:250px;
+    margin: 3px auto;
+}
+/* footer section */
+#footer{
+    
+    background: rgb(7, 2, 17);
+    border: 1px solid rgb(8, 8, 24);
+}
+.foot-title{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 10px;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+.foot-title img{
+    height: 10px;
+}
+/* footer Image */
+.foot-img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.foot-img img{
+    height: 20px;
+}
+/* body */
+body{
+    /* visibility: hidden; */
+background: rgb(30, 30, 30)
 }
