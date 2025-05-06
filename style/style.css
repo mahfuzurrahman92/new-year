@@ -305,6 +305,7 @@ figcaption{
     border: 1px solid rgb(8, 8, 24);
 }
 .foot-title{
+    /* text-decoration: overline; */
     margin-top: 20px;
     margin-bottom: 10px;
     font-size: 10px;
@@ -317,6 +318,7 @@ figcaption{
 }
 /* footer Image */
 .foot-img{
+    /* text-decoration: overline; */
     margin-top: 10px;
     margin-bottom: 10px;
     text-align: center;
